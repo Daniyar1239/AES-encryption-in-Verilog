@@ -1,5 +1,5 @@
 # AES-encryption-in-Verilog
-AES encryption and decryption algorithms implemented in Verilog programming language
+AES encryption and decryption algorithms implemented in Verilog programming language.
 
 The results of encryption and decryption processes are retrieved from Modelsim. The encyption has been implemented correctly; however, the decryption implementation has some unidentified problems. 
 
